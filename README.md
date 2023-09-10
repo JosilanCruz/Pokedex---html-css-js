@@ -1,4 +1,4 @@
-# Project to practice HTML/CSS/JavaScript
+# Project to practice HTML/CSS/JavaScript.
 
 (EN) Project to practice the joint use of HTML + JavaScript + CSS by creating an HTML page listing pokemons using pokeapi.co as a data source for creating and expanding the list
 
